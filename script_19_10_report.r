@@ -8,8 +8,7 @@
 # now it works like:  script checks the species distribution at the stand in year0: if spruce proportion>50% then select STP1, if less then 50% it is STP2.   Plus in each 5 years it check it again, and decide on the STPs again based on the species proportion. So this way it can change in time during the simulation.
 # Same are different initial status, much longer time series to se the rotation entire 160 years
 
-
-                                                                        # STP1 = ABIES ALBA > 50% IN VOLUME M3/HA
+#hi                                                                        # STP1 = ABIES ALBA > 50% IN VOLUME M3/HA
                                                                         # STP2 = ABIES ALBA < 50% V m3/ha 
 # first jvscrip
                                   
